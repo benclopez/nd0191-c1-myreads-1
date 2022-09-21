@@ -7,6 +7,7 @@ function SearchPage({ allBooks, getBooks }) {
     const [books, setBooks] = useState([]);
     const [value, setValue] = useState("");
 
+    // Handle change re-purposed from controlled components udacity exercise
     const handleChange = (event) => {
         setValue(event.target.value);
     };
