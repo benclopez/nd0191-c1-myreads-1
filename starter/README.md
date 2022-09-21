@@ -5,7 +5,7 @@ Created using the starter project.
 ## TL;DR
 
 To get started developing right away:
-
+- cd into starter folder with `cd starter`
 - install all project dependencies with `npm install`
 - start the development server with `npm start`
 
